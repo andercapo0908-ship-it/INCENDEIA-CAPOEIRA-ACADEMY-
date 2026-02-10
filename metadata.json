@@ -1,0 +1,8 @@
+{
+  "name": "INCENDEIA CAPOEIRA ACADEMY",
+  "description": "Portal oficial da INCENDEIA CAPOEIRA ACADEMY. Treinos, check-ins com IA, agenda de rodas e comunidade para alunos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
